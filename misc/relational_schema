@@ -1,0 +1,26 @@
+====== USER MANAGEMENT ====
+
+employee(employee_id (pk), name, username, password_hash, salary, gender)
+
+cook(employee_id(pk)(fk))
+
+manager(employee_id(pk)(fk))
+
+delivery_boy(employee_id(pk)(fk))
+
+waiter(employee_id(pk)(fk))
+
+==== MENU MANAGEMENT & KITCHEN INTERFACE ====
+
+menu_item(item_id (pk), name, description, type, price, availablity)
+
+cusine(name(pk))
+
+order(order_id (pk), ordered_time, completion_time, order_type, discount, status, price)
+
+item_shell(quantity_ordered, status, comments)
+
+table(table_number (pk), reserved)
+
+invoice(invoice_id (pk), customer_name, customer_number, feedback , mode_of_payement, invoice_time)
+

@@ -1,0 +1,8 @@
+Analytics:
+    - Average time to completion of order
+    - Avg time to cook
+    - Avg rating (etc..)
+
+Cusine will directly assign the respective cook the ordered item
+
+
