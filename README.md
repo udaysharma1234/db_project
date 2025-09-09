@@ -22,10 +22,4 @@ There are the following users populated with each user's password being the word
 - ethan_anderson : Cook (American)
 - sophia_martinez : Delivery Representative
 
-## Contributors
 
-- Clerk Raj Anuj (2022A7PS0080P) [itsRaCl](https://github.com/itsRaCl)
-- Nirjar Patel (2022A7PS0168P) [nirjar018](https://github.com/nirjar018)
-- Hriday Andodariya (2022A7PS0113P) [hriday-07](https://github.com/hriday-07)
-- Bakul Gupta (2022A7PS0091P) [bakul-gupta](https://github.com/bakul-gupta)
-- Arnav Dham (2022A7PS1182P) [arnavdham](https://github.com/arnavdham)
